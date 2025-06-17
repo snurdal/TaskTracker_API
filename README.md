@@ -6,11 +6,10 @@ A simple and scalable RESTful API for managing tasks, built using **ASP.NET Core
 
 ## 📌 Features
 
-- ✅ Create, Read, Update, and Delete tasks (CRUD operations)
+- ✅ RESTful API with Create, Read, Update, and Delete operations (CRUD)
 - 🗄 PostgreSQL database integration using EF Core
 - 📐 Clean architecture with separation of concerns
 - 🔒 Entity validations using Data Annotations
-- 🚀 Ready for expansion with services, repositories, and authentication
 
 ---
 
@@ -19,5 +18,5 @@ A simple and scalable RESTful API for managing tasks, built using **ASP.NET Core
 - ASP.NET Core 8.0
 - Entity Framework Core
 - PostgreSQL
-- Swagger (optional for testing)
-- Visual Studio / VS Code
+- Swagger
+- Visual Studio 22
